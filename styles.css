@@ -32,9 +32,8 @@
 
 .career {
     font-size: 80px;
-    padding-right: 1.1rem;
     font-family: 'Rubik', sans-serif;
-    font-weight: bolder;
+    font-weight: 700;
     color: #2A3137;
 }
 
@@ -128,6 +127,7 @@ button {
 .managing{
     font-size: 50px;
     padding-right: 10rem;
+    margin-bottom: 1.5rem;
     font-family: 'Rubik', sans-serif;
     color: #2A3137;
 }
@@ -144,19 +144,19 @@ button {
 
 .report {
     font-size: 80px;
-    padding-right: 4.5rem;
+    padding-right: 4rem;
     margin-top: -1rem;
     font-family: 'Rubik', sans-serif;
-    font-weight: bolder;
+    font-weight: 700;
     color: #2A3137;
 }
 
 .title-container{
     position: absolute;
     z-index: 1;
-    top: 100px;
+    top: 80px;
     width: 100vw;
-    text-align: center;  
+    text-align: center; 
 }
 
 @media only screen and (max-width: 900px) {
